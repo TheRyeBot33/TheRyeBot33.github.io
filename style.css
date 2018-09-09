@@ -1,0 +1,33 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-repeat: round;
+}
+
+.linkbtn {
+	background: rgba(255, 199, 0, 0.7);
+	border: 2px solid;
+	border-color: rgba(219, 171, 0, 1);
+	width: 120px;
+	height: 40px;
+	position: absolute;
+    margin: auto;
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0; 
+}
+
+.linkbtn:hover {
+	background-color: rgba(193, 150, 0, 0.8);
+	border-color: rgb(255, 255, 255);
+  }
+
+/*.backgroundimage {
+	position: absolute;
+    margin: auto;
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0;  
+}*/
